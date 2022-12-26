@@ -1,0 +1,18 @@
+.App{
+    margin-top: 100px;
+    margin-left: 580px;
+}
+
+body {
+    min-height: 100vh;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+  }
